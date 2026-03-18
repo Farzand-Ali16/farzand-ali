@@ -1,6 +1,6 @@
 # Farzand Ali — Power BI & Data Analytics Developer
 
-🌐 **Live Website:** https://farzand-ali.github.io
+🌐 **Live Website:** [https://farzand-ali.github.io](https://farzand-ali16.github.io/farzand-ali/)
 
 ## About
 Portfolio website showcasing my skills in Power BI, Data Analytics, and Data Visualization.
